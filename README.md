@@ -7,7 +7,7 @@
 <p>Uma vez configurado o acesso, deve ser configurado um usúario e senha (chave de acesso) para consumo
    das APIs dos Correios 
 <p>
-> Um novo token para cada execução pode ser solicitado com a fução GetToken ou
-> Para progamas que executarão durante um longo período, 
+>> Um novo token para cada execução pode ser solicitado com a fução GetToken ou
+>> Para progamas que executarão durante um longo período, 
 
 
